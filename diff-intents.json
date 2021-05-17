@@ -28,7 +28,7 @@
     },
     { "tag": "question",
       "patterns": ["Borat ask me a question", "ask me a question", "do you have any questions for me?", "can you ask me a question?", "please ask me a question", "ask me a funny question"],
-      "responses": ["Do your sweater hang like sleeve of wizard?", "Do you ever laugh on people with chairs?", "Do you ever make time with your mother-in-law?"],
+      "responses": ["Do your sweater hang like sleeve of wizard?", "Do you ever laugh while watching cute dog fails on Youtube?", "Do you ever make time with your mother-in-law?"],
       "context_set": ""
     },
     { "tag": "life-lesson",
